@@ -207,9 +207,3 @@ The Power BI report includes the following views:
 - Explainable, audit-ready reporting
 - Quantitative and qualitative analysis
 - Stakeholder-oriented dashboarding
-
----
-
-## 13. Disclaimer
-
-This project uses publicly available market data and is intended solely for educational and demonstration purposes. It does not represent actual regulatory findings or compliance determinations.
